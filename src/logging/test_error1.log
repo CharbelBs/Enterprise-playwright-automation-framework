@@ -1,0 +1,160 @@
+2025-11-11T12:53:11+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:53:15+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:53:15+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:53:15+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:53:16+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for" https://login.salesforce.com/" navigation to finish...[22m
+[2m    - navigated to "https://login.salesforce.com/"[22m
+
+2025-11-11T12:54:39+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://login.salesforce.com/"[22m
+
+2025-11-11T12:54:40+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:54:46+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:54:50+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:55:03+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:56:09+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:56:11+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:56:14+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:56:15+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-11-11T12:56:17+01:00 [error]: Error clicking login button: Error: locator.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#Login')[22m
+[2m    - locator resolved to <input id="Login" name="Login" type="submit" value="Log In" class="button r4 wide primary"/>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
