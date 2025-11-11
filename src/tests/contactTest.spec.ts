@@ -52,14 +52,15 @@ test.skip("csv to json", async () => {
 
 test.skip("demo faker", async () => { 
 
-  console.log(demoOutput)
+  const output = await demoOutput();
+  console.log(output);
 
  });
 
 test.skip("Faker", async () => { 
 
   // Generate test data
-const testData = generateTestData(20);
+const testData = await generateTestData(20);
 
 // Export data to JSON file
 exportToJson(testData, 'testData_en.json');
