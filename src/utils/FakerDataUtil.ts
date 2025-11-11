@@ -1,4 +1,3 @@
-import { faker } from '@faker-js/faker';
 import * as fs from 'fs';
 import * as createCsvWriter from 'csv-writer';
 import path from 'path';
@@ -14,22 +13,22 @@ interface UserData {
   address: string;
 }
 
-// Function to generate fake user data
-const generateUserData = (): UserData => {
-  return {
-    name: faker.person.firstName(),
-    email: faker.internet.email(),
-    username: faker.internet.username(),
-    phone: faker.phone.number(),
-    age: faker.number.int({ min: 18, max: 99 }),
-    address: faker.location.country(),
-  };
-};
+// Function to generate an array of fake user data (dynamic-import to support ESM-only faker)
+export const generateTestData = async (numRecords: number): Promise<UserData[]> => {
+  const { faker } = await import('@faker-js/faker');
 
-// Function to generate an array of fake user data
-export const generateTestData = (numRecords: number): UserData[] => {
-  const testData: UserData[] = faker.helpers.multiple(generateUserData, {
-  count: numRecords});
+  const generateUserData = (): UserData => {
+    return {
+      name: faker.person.firstName(),
+      email: faker.internet.email(),
+  username: faker.internet.username(),
+      phone: faker.phone.number(),
+      age: faker.number.int({ min: 18, max: 99 }),
+      address: faker.location.country(),
+    };
+  };
+
+  const testData: UserData[] = faker.helpers.multiple(generateUserData, { count: numRecords });
   return testData;
 };
 
