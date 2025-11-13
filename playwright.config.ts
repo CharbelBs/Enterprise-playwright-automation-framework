@@ -79,7 +79,6 @@ export default defineConfig({
         // override device viewport and launch args to open a large window
         viewport: { width: 1920, height: 1080 },
         launchOptions: { args: ["--start-maximized", "--window-size=1920,1080"] },
-        headless: false,
       },
     },
 

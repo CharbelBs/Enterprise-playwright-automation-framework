@@ -30,9 +30,11 @@ test.skip("Confirm logo Color", async ({ page }) => {
 });
 
 
-test.skip('Screenshot compare test', async ({ page}) => {
+test('Screenshot compare test', async ({ page}) => {
   await page.goto('/');
  // const loginPage = new LoginPage(page);
  // await loginPage.fillUsername("demo");
+ const info = test.info();
+console.log('TEST RUN:', info.title, 'project=', info.project?.name, 'attempt=', info.retry);
   await expect(page).toHaveScreenshot();
 });
