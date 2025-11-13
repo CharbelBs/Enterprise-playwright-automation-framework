@@ -58,8 +58,6 @@ export default defineConfig({
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on-first-retry",
 
-    headless: false,
-
     // Try to open browser in a large/full window before tests
     // Note: some browsers/platforms ignore --start-maximized; we also set a large viewport/window size
     viewport: { width: 1920, height: 1080 },
