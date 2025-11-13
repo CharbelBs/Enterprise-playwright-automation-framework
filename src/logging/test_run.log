@@ -4436,3 +4436,784 @@ Call log:
 [2m  - attempting click action[22m
 [2m    - waiting for element to be visible, enabled and stable[22m
 
+2025-11-12T15:11:07+01:00 [info]: Requested Url is https://login.salesforce.com/
+2025-11-12T15:11:07+01:00 [info]: Requested method is GET
+2025-11-12T15:11:07+01:00 [info]: Request headers is {
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/css/sfdc_210.css?v=6
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/jslibrary/SfdcSessionBase208.js
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/jslibrary/LoginHint208.js
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/img/logo214.svg
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/img/clear.png
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/img/gidr/email.svg
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/jslibrary/baselogin4.js
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Requested Url is https://login.salesforce.com/jslibrary/LoginMarketingSurveyResponse.js
+2025-11-12T15:11:10+01:00 [info]: Requested method is GET
+2025-11-12T15:11:10+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:10+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://login.salesforce.com/login/assets/fonts/SalesforceSans/SalesforceSans-Regular.woff2
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "origin": "https://login.salesforce.com",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/css/sfdc_210.css?v=6",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://login.salesforce.com/s.gif
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "accept-language": "en-US",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://login.salesforce.com/login/sessionserver212.html
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "accept-language": "en-US",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-11-12T15:11:11+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://login.salesforce.com/jslibrary/SessionServer212.js
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/login/sessionserver212.html",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:11+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://c.salesforce.com/login-messages/promos.html
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "accept-language": "en-US",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+2025-11-12T15:11:11+01:00 [info]: Requested Url is https://login.salesforce.com/img/icon/capslock_blue.png
+2025-11-12T15:11:11+01:00 [info]: Requested method is GET
+2025-11-12T15:11:11+01:00 [info]: Request headers is {
+  "sec-ch-ua-platform": "\"Windows\"",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "accept-language": "en-US",
+  "sec-ch-ua-mobile": "?0"
+}
+2025-11-12T15:11:11+01:00 [info]: Response status is 200
+2025-11-12T15:11:11+01:00 [info]: Response status is 403
+2025-11-12T15:11:24+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "origin": "https://login.salesforce.com",
+  "referer": "https://login.salesforce.com/css/sfdc_210.css?v=6",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/login/sessionserver212.html",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "BrowserId=eV55Xb_REfCJJnVoMtWPVA",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-12T15:11:25+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=eV55Xb_REfCJJnVoMtWPVA; session=1762956685655",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:11+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:11+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "origin": "https://login.salesforce.com",
+  "referer": "https://login.salesforce.com/css/sfdc_210.css?v=6",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "origin": "https://login.salesforce.com",
+  "referer": "https://login.salesforce.com/css/sfdc_210.css?v=6",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/login/sessionserver212.html",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jjub7cB2EfCJ15GoF28vKQ; session=1763027412417",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "BrowserId=Jjub7cB2EfCJ15GoF28vKQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"HeadlessChrome\";v=\"141\", \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"141\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/login/sessionserver212.html",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "accept-language": "en-US",
+  "cookie": "BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://login.salesforce.com/",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "cookie": "CookieConsentPolicy=0:0; LSKey-c$CookieConsentPolicy=0:0; BrowserId=Jj73eMB2EfCgwNXV6QZPZQ; session=1763027412507",
+  "referer": "https://login.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "text/css,*/*;q=0.1",
+  "accept-language": "en-US",
+  "cookie": "BrowserId=Jj73eMB2EfCgwNXV6QZPZQ",
+  "referer": "https://c.salesforce.com/login-messages/promos.html",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "*/*",
+  "accept-language": "en-US",
+  "origin": "https://c.salesforce.com",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET
+2025-11-13T10:50:12+01:00 [info]: Modified Request headers is {
+  "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+  "accept-language": "en-US",
+  "referer": "https://c.salesforce.com/",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+  "sec-ch-ua": "\"Chromium\";v=\"142\", \"Google Chrome\";v=\"142\", \"Not_A Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\""
+}
+         Modified Request type is GET

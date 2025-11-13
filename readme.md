@@ -15,6 +15,14 @@ set Node_ENV=qa
 ## Run a test
 npx playwright test src/tests/loginTest.spec.ts --headed
 
+## Run Api test in UI
+npx playwright test src/tests/apiTest.spec.ts --ui
+
+
+## Open playwright codegen
+npx playwright codegen
+
+
 ## CryptoJS
 npm install crypto-js
 npm install --save-dev @types/crypto-js

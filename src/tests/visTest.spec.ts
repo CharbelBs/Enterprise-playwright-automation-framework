@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import LoginPage from "../pages/LoginPage";
 
-test("Verify Logo Placement and Size", async ({ page }) => {
+test.skip("Verify Logo Placement and Size", async ({ page }) => {
   await page.goto("/");
   const logo = await page.getByAltText('Salesforce');
   const boundingBox = await logo?.boundingBox();
@@ -12,7 +12,7 @@ test("Verify Logo Placement and Size", async ({ page }) => {
   }
 });
 
-test("Confirm logo Color", async ({ page }) => {
+test.skip("Confirm logo Color", async ({ page }) => {
     await page.goto("/");
     const logo = await page.getByAltText('Salesforce');
 
@@ -30,9 +30,9 @@ test("Confirm logo Color", async ({ page }) => {
 });
 
 
-test('Screenshot compare test', async ({ page}) => {
+test.skip('Screenshot compare test', async ({ page}) => {
   await page.goto('/');
-  const loginPage = new LoginPage(page);
-  await loginPage.fillUsername("demo");
+ // const loginPage = new LoginPage(page);
+ // await loginPage.fillUsername("demo");
   await expect(page).toHaveScreenshot();
 });

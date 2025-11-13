@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test } from "@playwright/test";
 import logger from "../utils/LoggerUtil";
 
 test("API Monitoring test", async ({ page }) => {

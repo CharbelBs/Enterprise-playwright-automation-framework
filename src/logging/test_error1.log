@@ -158,3 +158,14 @@ Call log:
 [2m  - attempting click action[22m
 [2m    - waiting for element to be visible, enabled and stable[22m
 
+2025-11-13T11:04:33+01:00 [error]: Error clicking login button: Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByTitle('Service')
+Expected: visible
+Timeout: 15000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
